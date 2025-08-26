@@ -29,4 +29,4 @@ public:
 // https://leetcode.com/problems/missing-number/
 // Constraints: n == nums.length, 1 <= n <= 10^4, 0 <= nums[i] <= n, All the numbers of nums are unique.
 // Time Complexity: O(n)
-// Auxiliary Space: O(1)
+// Auxiliary Space: O(n)
